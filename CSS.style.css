@@ -1,8 +1,12 @@
+body{
+margin:0;
+}
+
 .card {
     border-radius: 30px;
     box-shadow: 0 4px 8px 0 rgba(52, 7, 142, 0.822);
     max-width: 600px;
-    margin-bottom: 60px;
+    margin: auto;
     display:flex;
     align-item:center;
     text-align: center;
